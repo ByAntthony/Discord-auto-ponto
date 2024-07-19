@@ -1,0 +1,29 @@
+1 - No config.json você vai definir cargos, canais e token bot.
+
+2 - Apague a pasta " Node_modules e o arquivo packpage-lock.json ", após isso, clica onde está o caminho da pasta, escreva " cmd " no lugar do caminho e de enter.
+Assim que abrir o cmd com o  diretório , basta você digitar o comando " npm i " e aguardar instalar os modulos.
+
+3 - Na pasta images, é o gif que vai aparecer no comando rank, onde vai listar o rank do pessoal em horas e minutos, quando trocar a imagem lá, não se esqueça que precisa estar com o mesmo nome que a imagem atual lá.
+
+No mais é isso, vou tentar ajudar quem eu puder, lembrando que não autorizo a venda desse bot, estou disponibilizando para ajudar o pessoal.
+
+
+No arquivo " voiceTime.json, que fica na pasta /data, é onde vai ficar salvo as horas de todo mundo, lembrando que o código pode ter erros, mas até esse momento eu não identifiquei outros, os que achei já resolvi.
+
+
+
+Comandos : 
+
+Anuncio - Basicamente vai pedir um titulo, descrição e quando enviar vai entregar o texto em uma embed, mas é um comando meio ruim, não tive tempo de melhorar ele, tenho outro comando que criei, onde a embed é mais interativa e fica bem mais bonitinh.
+cargo -  Atribuir cargo a alguém no servidor ( Tem canal de logs ) 
+Config - Esse é o comando base, onde você vai configurar o cargo e o canal para validar a contagem de horas, pode usar tanto para staff, quanto para outras coisas.
+Horas - Ver o seu total de horas acumuladas.
+Painel - Vai exibir um painel  com 2 botões, um mostrando as redes sociais e o outro vai listar um rank com a galera com maior tempo acumulado.
+resetar - Vai resetar as horas de todo mundo, esses comandos que podem prejudicar, eu coloquei que só o cargo permitido ( configurado no config.json ) poderá usar.
+resetaruser - Vai pedir para selecionar um usuario, esse comando basicamente vai resetar apenas as horas do usuario específico. 
+
+
+
+Instagram: @magusthe
+
+Discord: Magusthe

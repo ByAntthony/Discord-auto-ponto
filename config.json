@@ -1,0 +1,13 @@
+{
+  "token": "token do seu bot aqui!!!!!",
+  "guildId": "ID do seu servidor discord aqui!!!!",
+  "clientId": "ID do seu bot / ID aplicação aqui!!!",
+  "logChannelId": "ID DO CANAL DE LOGS!!!",
+  "logChannelId1": "ID DO CANAL DE LOGS 2!!",
+  "adminRoleId": "ID DO CARGO RESPONSAVEL POR ALGUNS COMANDOS!!",
+  "cargos": [
+  ],
+  "canais": [
+   
+  ]
+}
