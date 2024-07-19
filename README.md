@@ -9,11 +9,11 @@ Registro de Ponto: Os usuários podem registrar o início e o fim de seus turnos
 Cálculo Automático de Horas: O bot calcula automaticamente as horas trabalhadas com base nos registros de ponto.
 Relatórios de Horas: Gere relatórios detalhados das horas trabalhadas por cada membro da equipe em um período específico.
 Comandos Personalizados: Adicione comandos personalizados para atender às necessidades específicas da sua equipe.
-Como Usar
+Como Usar:
 Convide o bot para o seu servidor: Use o link de convite fornecido para adicionar o bot ao seu servidor do Discord.
 Configure as permissões: Certifique-se de que o bot tenha as permissões necessárias para funcionar corretamente (por exemplo, enviar mensagens, ler mensagens, gerenciar mensagens).
 Configure os comandos,
-Comece a usar: Os membros da equipe podem usar os comandos definidos para registrar seus horários de entrada e saída.
+Comece a usar,
 Contribuição
 Este projeto é open source e aceita contribuições da comunidade. Se você quiser ajudar a melhorar o bot, sinta-se à vontade para enviar pull requests ou reportar problemas no repositório do GitHub.
 
